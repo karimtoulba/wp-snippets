@@ -1,3 +1,6 @@
+// Comment that part before pasting in functions.php or Code Snippets
+<?php
+
 // Hide WordPress Admin Notifications programmatically
 function pr_disable_admin_notices() {
         global $wp_filter;
