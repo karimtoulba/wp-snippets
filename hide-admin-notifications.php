@@ -1,5 +1,5 @@
-// Comment that part before pasting in functions.php or Code Snippets
 <?php
+// Comment / <?php / before pasting in functions.php or Code Snippets
 
 // Hide WordPress Admin Notifications programmatically
 function pr_disable_admin_notices() {
